@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @swatijha97
+- 👀 I’m interested in Frontend Web Development
+- 🌱 I’m currently learning ES6+
+- 💞️ I’m looking to collaborate on PSD to HTMLs.
+- 📫 You can reach me at jha.swati.1797@gmail.com
